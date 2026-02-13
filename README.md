@@ -1,9 +1,13 @@
 # 📊 Data Specialists in Spanish Companies
 
-![SAS](https://img.shields.io/badge/SAS-Programming-007AC9?style=for-the-badge&logo=sas&logoColor=white)
-![Excel](https://img.shields.io/badge/Data-Official_Statistics-green?style=for-the-badge)
+<div align="left">
+  <img src="https://www.sas.com/content/dam/SAS/logo/sas-logo.svg" height="50" alt="SAS Logo" style="vertical-align:middle; margin-right: 20px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Logotipo_INE.svg" height="50" alt="INE Logo" style="vertical-align:middle;"/>
+</div>
+<br/>
 
 **Subject:** Digital Economy 
+
 **Focus:** Labor Market & Digital Transformation
 
 ## 👥 Authors
