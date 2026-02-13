@@ -1,9 +1,11 @@
 # 📊 Data Specialists in Spanish Companies
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_Institute_logo.svg" height="60" alt="SAS Logo" style="margin-right: 25px;"/>
+  <img src="https://github.com/user-attachments/assets/05a38582-5ebd-43a9-955a-65ffde7bea71" height="50" alt="SAS" style="margin-right: 20px;" />
+
+  <img src="https://github.com/user-attachments/assets/e5ad75e9-3d4f-4baf-97a2-119abe0d50f6" height="50" alt="INE" style="margin-right: 20px;" />
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Logotipo_INE.svg" height="60" alt="INE Logo" />
+  <img src="https://github.com/user-attachments/assets/c98f1527-993e-47d0-b0ed-b41d28fe7d7c" height="50" alt="Excel" />
 </div>
 <br/>
 
