@@ -1,10 +1,10 @@
 # 📊 Data Specialists in Spanish Companies
 
 <div align="left">
-  <img src="https://www.sas.com/content/dam/SAS/logo/sas-logo.svg" height="50" alt="SAS Logo" style="vertical-align:middle; margin-right: 20px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Logotipo_INE.svg" height="50" alt="INE Logo" style="vertical-align:middle;"/>
-</div>
-<br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_Institute_logo.svg" width="120" style="margin-right: 20px;" alt="SAS Logo" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Logotipo_INE.svg" width="120" alt="INE Logo" />
+</div>/>
 
 **Subject:** Digital Economy 
 
@@ -33,11 +33,10 @@ We wanted to understand the "Digital Divide" between small companies (SMEs) and 
 * **Digital Transformation:** The data shows that hiring data specialists is a key indicator of a company's digital maturity.
 
 ### 📂 Files in this repo
-* [cite_start]`📄 ESPECIALISTAS EN DATOS_word.pdf`: The full detailed report[cite: 3].
-* [cite_start]`📊 ESPECIALISTAS EN DATOS_ppt.pdf`: The presentation summary[cite: 1].
-* [cite_start]`⚙️ ESPECIALISTAS EN DATOS_sas.sas`: The **SAS code** used for the statistical analysis[cite: 2].
-* [cite_start]`📂 data/`: Excel files with the raw data (SMEs and Large Companies)[cite: 4, 5].
-
+* `📄 ESPECIALISTAS EN DATOS_word.pdf`: The full detailed report.
+* `📊 ESPECIALISTAS EN DATOS_ppt.pdf`: The presentation summary.
+* `⚙️ ESPECIALISTAS EN DATOS_sas.sas`: The **SAS code** used for the statistical analysis.
+* `📂 data/`: Excel files with the raw data (SMEs and Large Companies).
 ---
 Este proyecto analiza la presencia y demanda de **Especialistas en Datos** (Big Data, Data Science, IA) en las empresas españolas.
 
@@ -54,7 +53,7 @@ Queríamos entender la "Brecha Digital" entre las pequeñas empresas (PYMES) y l
 * **Transformación Digital:** Los datos muestran que contratar especialistas en datos es un indicador clave de la madurez digital de una empresa.
 
 ### 📂 Archivos en este repo
-* [cite_start]`📄 ESPECIALISTAS EN DATOS_word.pdf`: El informe detallado completo[cite: 3].
-* [cite_start]`📊 ESPECIALISTAS EN DATOS_ppt.pdf`: La presentación resumen[cite: 1].
-* [cite_start]`⚙️ ESPECIALISTAS EN DATOS_sas.sas`: El código **SAS** usado para el análisis estadístico[cite: 2].
-* [cite_start]`📂 data/`: Archivos Excel con los datos brutos (PYMES y Grandes Empresas)[cite: 4, 5].
+* `📄 ESPECIALISTAS EN DATOS_word.pdf`: El informe detallado completo.
+* `📊 ESPECIALISTAS EN DATOS_ppt.pdf`: La presentación resumen.
+* `⚙️ ESPECIALISTAS EN DATOS_sas.sas`: El código **SAS** usado para el análisis estadístico.
+* `📂 data/`: Archivos Excel con los datos brutos (PYMES y Grandes Empresas).
