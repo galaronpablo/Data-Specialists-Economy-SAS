@@ -1,13 +1,9 @@
 # 📊 Data Specialists in Spanish Companies
 
 <div align="left">
-  <a href="https://www.sas.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_Institute_logo.svg" height="60" alt="SAS Logo" style="margin-right: 20px;"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_Institute_logo.svg" height="60" alt="SAS Logo" style="margin-right: 25px;"/>
   
-  <a href="https://www.ine.es/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Logotipo_INE.svg" height="60" alt="INE Logo"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Logotipo_INE.svg" height="60" alt="INE Logo" />
 </div>
 <br/>
 
