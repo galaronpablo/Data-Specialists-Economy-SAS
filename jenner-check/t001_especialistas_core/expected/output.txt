@@ -1,0 +1,68 @@
+
+  Obs                           sector  penpymes
+-----  -------------------------------  --------
+    1  TOTAL INDUSTRIAS                     1377
+    2  ALIMENTACION Y BEBIDAS                927
+    3  COQUERIAS Y REFINO                   2085
+    4  METALURGIA                           1006
+    5  PRODUCTORS INFORMÁTICOS               177
+    6  ENERGÍA Y AGUA                        229
+    7  TOTAL CONSTRUCCIÓN                    772
+    8  TOTAL SERVICIOS                      2010
+    9  VENTA Y REPARACION DE VEHÍCULO          .
+   10  TRANSPORTE Y ALMACENAMIENTO           989
+   11  SERVICIOS DE ALOJAMIENTO             1484
+   12  INFORMACIÓN Y COMUNICACIONES          688
+   13  ACTIVIDADES INMOBILIARIAS            1576
+   14  ACTIVIDADES ADMINISTRATIVAS          1255
+   15  SECTOR TIC                           7111
+
+  Obs  medianas  grandes
+-----  --------  -------
+    1      1756     5068
+    2      1224     4601
+    3      2019     5500
+    4      1708     5738
+    5      2320     4724
+    6      1699     5603
+    7      1147     4743
+    8      2293     4542
+    9      1990     4507
+   10      1550     5075
+   11      9980     4128
+   12      5051     7305
+   13      2616     4909
+   14      9390     2453
+   15      4836     6894
+
+                           % DE ESPECIALISTAS EN DATOS SEGÚN SECTOR Y TAMAÑO DE LA EMPRESA
+
+
+  Obs                           sector  penpymes  medianas  grandes
+-----  -------------------------------  --------  --------  -------
+    1  TOTAL INDUSTRIAS                     1377      1756     5068
+    2  ALIMENTACION Y BEBIDAS                927      1224     4601
+    3  COQUERIAS Y REFINO                   2085      2019     5500
+    4  METALURGIA                           1006      1708     5738
+    5  PRODUCTORS INFORMÁTICOS               177      2320     4724
+    6  ENERGÍA Y AGUA                        229      1699     5603
+    7  TOTAL CONSTRUCCIÓN                    772      1147     4743
+    8  TOTAL SERVICIOS                      2010      2293     4542
+    9  VENTA Y REPARACION DE VEHÍCULO          .      1990     4507
+   10  TRANSPORTE Y ALMACENAMIENTO           989      1550     5075
+   11  SERVICIOS DE ALOJAMIENTO             1484      9980     4128
+   12  INFORMACIÓN Y COMUNICACIONES          688      5051     7305
+   13  ACTIVIDADES INMOBILIARIAS            1576      2616     4909
+   14  ACTIVIDADES ADMINISTRATIVAS          1255      9390     2453
+   15  SECTOR TIC                           7111      4836     6894
+
+                                         Análisis descriptivo general básico
+
+                                                  The MEANS Procedure
+
+ Variable        N             Mean            Variance          Std Dev          Maximum          Minimum            Range   Coeff of Variation       Skewness       Kurtosis
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ penpymes       14     1549.0000000     2886292.4615385     1698.9091976     7111.0000000      177.0000000     6934.0000000          109.6778049      3.0329689     10.3347916
+ medianas       15     3305.2666667     8030288.0666667     2833.7762909     9980.0000000     1147.0000000     8833.0000000           85.7351789      1.7689614      2.1052765
+ grandes        15     5052.6666667     1288376.3809524     1135.0666857     7305.0000000     2453.0000000     4852.0000000           22.4647055     -0.0320417      1.8055383
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
