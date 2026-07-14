@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_especialistas_graficos",
+  "source_file": "data/ESPECIALISTAS EN DATOS_sas.sas",
+  "source_blob_sha": "bb4c1e34ccb59d6a7253aaa2ff3c4d988a841e46",
+  "source_commit": "d3bdba9aa6a1b3359012e530ab50849f7124e816",
+  "notes": "Graphics portion of the author's script: rebuilds 'todo' then draws the three PROC GCHART horizontal-bar histograms (medianas, penpymes, grandes) by sector, and the PROC GPLOT time series of world data volume in zettabytes (2010-2023) with SYMBOL v=dot i=j. Re-encoded from CP1252 to UTF-8; no logic changed. Produces PNG+SVG plots on Jenner."
+}

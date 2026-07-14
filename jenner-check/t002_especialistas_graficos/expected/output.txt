@@ -1,0 +1,52 @@
+                                   Histograma Horizontal de empresas medianas (50-250)
+
+                                   Histograma Horizontal de empresas medianas (50-250)
+
+                                   Histograma Horizontal de empresas medianas (50-250)
+
+                                   Histograma Horizontal de empresas medianas (50-250)
+
+
+  Obs  year  volumen_en_zettabytes
+-----  ----  ---------------------
+    1  2010                      2
+    2  2011                      5
+    3  2012                    6.5
+    4  2013                      9
+    5  2014                   12.5
+    6  2015                   15.5
+    7  2016                     18
+    8  2017                     26
+    9  2018                     33
+   10  2019                     41
+   11  2020                   64.2
+   12  2021                     79
+   13  2022                     97
+   14  2023                    120
+
+                               Evolución histórica del volumen de datos a nivel mundial
+
+PROC GPLOT Output
+Data: datos
+
+Variables: year, volumen_en_zettabytes
+
+      year  volumen_en_zettabytes
+----------  ---------------------
+      2010                      2
+      2011                      5
+      2012                    6.5
+      2013                      9
+      2014                   12.5
+      2015                   15.5
+      2016                     18
+      2017                     26
+      2018                     33
+      2019                     41
+      2020                   64.2
+      2021                     79
+      2022                     97
+      2023                    120
+
+year: N=14, Min=2010, Max=2023, Mean=2016.5000, Sum=28231
+volumen_en_zettabytes: N=14, Min=2, Max=120, Mean=37.7643, Sum=528.7
